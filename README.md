@@ -13,7 +13,7 @@ Sonic Adventure II
 NBA 2K2 (but sound still little bugged)
 
 
-## Copyright & huge thanks
+### Copyright & huge thanks
 Flycast crew
 Crossmix-OS crew
 Discord peoples from "Retro Game Handhelds"
