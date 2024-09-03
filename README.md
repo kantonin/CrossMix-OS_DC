@@ -1,6 +1,6 @@
 # CrossMix-OS_DC
 Performance Launcher for Dreamcast flycast standalone in Trimui Smart Pro
-This will add another launcher mode for more demanding games
+This will add another launcher mode for more demanding games so your previous config will not be overwrited
 
 ## Installation : 
 copy files in your Emus/DC/ directory
