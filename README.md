@@ -5,7 +5,7 @@ This will add another launcher mode for more demanding games so your previous co
 ## Installation : 
 copy files in your Emus/DC/ directory
 
-## This will solve soung  crackling for
+## This will solve sound  crackling for
 F1 world Grand prix II
 Sonic Adventure II
 
